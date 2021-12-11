@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaxtronElNoob
 - 👀 I’m interested in Videogames and programing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Godot Engine
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via mail.
 
 <!---
 MaxtronElNoob/MaxtronElNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
