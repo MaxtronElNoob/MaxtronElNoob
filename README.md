@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaxtronElNoob
-- 👀 I’m interested in Videogames and programing
-- 🌱 I’m currently learning Godot Engine
+- 👋 Hi, I’m @MaxtronElNoob.
+- 👀 I’m interested in Videogames and programing.
+- 🌱 I’m currently learning Godot Engine, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via mail.
 
