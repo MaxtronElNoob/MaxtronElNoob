@@ -2,7 +2,7 @@
 - 💬 I can speak in Spanish and English.
 - 👀 I’m interested in Videogames and Programing.
 - 🌱 I’m currently trying learning Godot Engine, CSS, SQL and Java.
-- 🧠 I have practice with Python, SQL, C, C++, Java and Latex.
+- 🧠 I have practice with Python, SQL, C, C++, Java, Latex and PHP.
 - 💞️ I’m looking to collaborate on proyects that caught my eye.
 - 📫 You can reach me via mail.
 
